@@ -16,7 +16,7 @@ var paths = {
 gulp.task('scripts', function(){
 
     gulp.src(paths.appModules)
-        .pipe(concat('pi-angular-class-hover.js'))
+        .pipe(concat('pi-class-hover.js'))
         .pipe(gulp.dest('./dist'));
 
     gulp.src(['./bower_components/angular/angular.js'])
