@@ -1,0 +1,25 @@
+{
+  "name": "pi-class-hover",
+  "version": "0.0.1",
+  "homepage": "https://github.com/guilhermegeek/pi-angular-class-hover",
+  "authors": [
+    "email@guilhermecardoso.pt"
+  ],
+  "description": "Directive to apply a CSS class when the element is hovered",
+  "main": "dist/pi-class-hover.js",
+  "keywords": [
+    "angularjs",
+    "class",
+    "hover",
+    "ng-onmouseenter",
+    "ng-onmouseleave"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
